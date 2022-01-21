@@ -1,0 +1,12 @@
+{
+  "name": "take_home_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "cd ./client && yarn && yarn start && cd ./server && yarn && yarn start"
+  },
+  "author": "",
+  "license": "ISC"
+}
